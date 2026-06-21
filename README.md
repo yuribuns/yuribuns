@@ -3,6 +3,7 @@
 </p>
 
  **<p align="center">yuri shrine ~ all requested lol</p>**
+  **<p align="center">will add more if possible or requested~</p>**
 <!--
 **yuribuns/yuribuns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
