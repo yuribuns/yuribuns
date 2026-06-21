@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<p align="center">
+  <img width="760" height="300" src="https://cdn.discordapp.com/attachments/1335506305259012128/1518193886491836496/Untitled90_20260621175937.png?ex=6a3907bd&is=6a37b63d&hm=ae4bb88eac1880c5eab626f040a9628302033ce44fc7f56d70ddb5ee3de79f48&/760/600">
+</p>
 <!--
 **yuribuns/yuribuns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
