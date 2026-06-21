@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="760" height="300" src="https://cdn.discordapp.com/attachments/1335506305259012128/1518193886491836496/Untitled90_20260621175937.png?ex=6a3907bd&is=6a37b63d&hm=ae4bb88eac1880c5eab626f040a9628302033ce44fc7f56d70ddb5ee3de79f48&/760/600">
+  <img width="760" height="300" src="https://cdn.discordapp.com/attachments/1505979226199818447/1518194176494403744/Untitled90_20260621175937.png?ex=6a390802&is=6a37b682&hm=74cbfe9c7da63623f7f172cc6abcded5520a95690afc468caecddb7856ea5cca&/760/300">
 </p>
 <!--
 **yuribuns/yuribuns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
