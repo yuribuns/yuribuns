@@ -1,6 +1,8 @@
 <p align="center">
   <img width="460" height="500" src="https://cdn.discordapp.com/attachments/1282985399051878441/1518204474181554186/Screenshot_20260621_184155_com_hihonor_photos_GalleryMain.jpg?ex=6a391199&is=6a37c019&hm=f31139380237066f9c5b02e263e4aa4e93d37b86bc8dc9afe77cdc96c818b2be&/460/300">
 </p>
+
+ **<p align="center">yuri shrine ^_^</p>**
 <!--
 **yuribuns/yuribuns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
